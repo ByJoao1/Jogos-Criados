@@ -4,4 +4,4 @@
 
 [Jogo Da Cobrinha](https://byjoao1.github.io/Jogo_Da_Cobrinha/)
 
-[Jogo Da Cobrinha](https://byjoao1.github.io/PingPong/)
+[Ping Pong](https://byjoao1.github.io/PingPong/)
